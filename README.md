@@ -42,12 +42,7 @@ I am a student developer from Belgium passionate about building efficient, fast,
 ## GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DauphinDM&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DauphinDM&layout=compact&theme=dark&hide_border=true&hide_title=true" alt="Top Languages" width="48%" />
-
-<br />
-
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
 
 </div>
