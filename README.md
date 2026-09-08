@@ -50,7 +50,7 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
 
 </div>
 
