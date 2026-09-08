@@ -52,10 +52,6 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
 
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DauphinDM&theme=react-dark&hide_border=true" alt="Activity Graph" width="97%" />
-
 </div>
 
 ---
