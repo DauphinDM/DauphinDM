@@ -59,7 +59,7 @@ I am a student developer from Belgium passionate about building efficient, fast,
 <div align="center">
 
 <!-- Replace 'your-repo-name' with the actual repository names you want to show off -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=your-repo-name&theme=dark&hide_border=true" alt="Pinned Repo 1" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=snobble-Discord-Server-Bot&theme=dark&hide_border=true" alt="Pinned Repo 1" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=your-repo-name2&theme=dark&hide_border=true" alt="Pinned Repo 2" width="48%" />
 
 </div>
