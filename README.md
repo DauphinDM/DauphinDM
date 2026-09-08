@@ -50,11 +50,6 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DauphinDM&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DauphinDM&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-
-<br /><br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
 
 <br /><br />
@@ -68,15 +63,6 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
 ## Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/DauphinDM/your-repo-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=your-repo-name&theme=dark&show_icons=true&hide_border=true" alt="Pinned Repo 1" width="48%" />
-</a>
-<a href="https://github.com/DauphinDM/your-repo-name2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=your-repo-name2&theme=dark&show_icons=true&hide_border=true" alt="Pinned Repo 2" width="48%" />
-</a>
-
-<br /><br />
 
 <a href="https://github.com/DauphinDM/your-repo-name">
   <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo 1" />
