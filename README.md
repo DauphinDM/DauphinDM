@@ -63,8 +63,8 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
 <a href="https://github.com/DauphinDM/snobble-Discord-Server-Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=snobble-Discord-Server-Bot&theme=dark&hide_border=true" alt="snobble-Discord-Server-Bot" />
 </a>
-<a href="https://github.com/DauphinDM/your-repo-name2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=your-repo-name2&theme=dark&hide_border=true" alt="Repo 2" />
+<a href="https://github.com/DauphinDM/GoDAT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoDAT&repo=your-repo-name2&theme=dark&hide_border=true" alt="GoDAT" />
 </a>
 
 </div>
