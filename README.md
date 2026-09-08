@@ -50,7 +50,7 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=DauphinDM&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" width="97%" />
 
 </div>
 
@@ -64,7 +64,7 @@ I'm a student developer from Belgium passionate about building efficient, fast, 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=snobble-Discord-Server-Bot&theme=dark&hide_border=true" alt="snobble-Discord-Server-Bot" />
 </a>
 <a href="https://github.com/DauphinDM/GoDAT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoDAT&repo=your-repo-name2&theme=dark&hide_border=true" alt="GoDAT" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DauphinDM&repo=GoDAT&theme=dark&hide_border=true" alt="GoDAT" />
 </a>
 
 </div>
