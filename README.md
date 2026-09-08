@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Dauphin%20de%20Moulin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20%7C%20Belgium&descAlignY=55&descSize=18" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=From+making+websites+to+making+full+fledged+apps;Robust+application+development+with+C%23;Always+busy+with+building+something+new;On+the+internet+chronically" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=From+making+websites+to+making+full+fledged+apps;Robust+application+development+with+C%23;Always+busy+with+building+something+new;On+the+internet+chronically" alt="Typing SVG" />
 
 <br />
 
