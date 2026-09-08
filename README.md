@@ -1,12 +1,9 @@
 <div align="center">
 
-# Dauphin de Moulin
-### Student Developer based in Belgium
-
 <br />
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Dauphin%20de%20Moulin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
+### Student Developer based in Belgium
 </div>
 
 <br />
