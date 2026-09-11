@@ -50,6 +50,9 @@ Reach me through the links below
 <a href="https://github.com/DauphinDM/GoDAT">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=DauphinDM&repo=GoDAT&theme=dark&hide_border=true" alt="GoDAT" />
 </a>
+<a href="https://github.com/DauphinDM/PriceCalculator">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DauphinDM&repo=PriceCalculator&theme=dark&hide_border=true" alt="PriceCalculator" />
+</a>
 
 ---
 
