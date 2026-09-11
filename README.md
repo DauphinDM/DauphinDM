@@ -67,6 +67,6 @@ Reach me through the links below
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4d4d4&height=100&section=footer" alt="Footer Banner" />
 
 </div>
